@@ -1,0 +1,266 @@
+
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+
+/* Header css */
+
+#header{
+    background-color: #e9e8e6;
+}
+
+.folio{
+    border: 1px solid;
+    font-style: normal;
+    font-size: 30px;
+    background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;  
+}
+
+#header > div > header > ul{
+    font-size: 15px;
+    font-family:inherit;
+}
+
+
+/* Hero section css */
+.abt{
+    border-radius: 150px 150px;
+}
+
+.btn-primary{
+    border-radius: 50px;
+}
+.btn-outline-secondary{
+    color: black;
+    border-radius: 50px;
+}
+
+.heading1{
+    text-transform: uppercase;
+}
+
+
+/* footer section css */
+#footer{
+    background-color: #e9e8e6;
+    font-size: 13px;
+    font-family: inherit;
+}
+
+
+/* About section css */
+
+.lead{
+    font-size: 14px;
+}
+
+#blue{
+    color: white; 
+    text-decoration:none
+}
+
+#white{
+    color: black;
+    text-decoration:none
+}
+
+.sect-pt4 {
+    padding-top: 4rem;
+}
+
+.about-mf .about-img img {
+    margin-left: 10px;
+    
+}
+
+.about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.title-s {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+    font-family:inherit;
+
+}
+
+.title-s1 {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+
+}
+
+
+.skill-mf span {
+    color: #4e4e4e;
+}
+
+.skill-mf .progress {
+    background-color: #cde1f8;
+    margin: 0.5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: 0.7rem;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.lead2 {
+    font-size: 1.16rem;
+    font-weight: 200;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.title-left {
+    font-size: 2rem;
+    position: relative;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.title-s {
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+    font-family: inherit;
+
+}
+
+.rounded {
+    border-radius: var(--bs-border-radius)!important;
+}
+
+.box-shadow-full {
+    padding: 3rem 1.25rem;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 3rem;
+    z-index: 2;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+/* Resume section css */
+.text-gradient {
+    background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-secondary {
+    color: #e21e80 !important;
+}
+
+
+.feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+}
+
+.bg-gradient-primary-to-secondary {
+    background: #1e30f3;
+    background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%); 
+}
+
+.rounded-3 {
+    border-radius: var(--bs-border-radius-lg) !important;
+}
+
+
+/* Contact section css */
+.contact-mf {
+    margin-top: 4rem;
+}
+
+.title-box-2 {
+    margin-bottom: 3rem;
+}
+
+.php-email-form button[type=submit] {
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+}
+
+.button-rouded {
+    border-radius: 5rem;
+}
+
+.button-big {
+    padding: 0.9rem 2.3rem;
+    font-size: 1.2rem;
+}
+
+.button-a {
+    text-decoration: none;
+    background-color: #0078ff;
+    color: #fff;
+    border-color: #cde1f8;
+}
+
+.title-box-2 {
+    margin-bottom: 3rem;
+}
+
+.title-left {
+    font-size: 2rem;
+    position: relative;
+}
+
+
+/* This part work for underline of title left */
+.title-left:before {
+    content: "";
+    position: absolute;
+    height: 3px;
+    background-color: #0078ff;
+    width: 100px;
+    bottom: -12px;
+}
+
+.lead3 {
+    font-size: 1.21rem;
+    font-weight: 200;
+    font-family: inherit;
+
+}
+
+.list-ico {
+    line-height: 2;
+}
+
+.socials {
+    padding: 1.5rem 0;
+}
+
+.ul-resect, .widget-tags ul, .widget-sidebar .list-sidebar, .box-comments .list-comments, .blog-wrapper .post-meta ul, .list-ico, .socials ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.socials ul li {
+    display: inline-block;
+}
+
+#con-list{
+    font-size: 1.21em;
+    font-family: inherit
+}
