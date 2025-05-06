@@ -87,7 +87,7 @@ function NavBar() {
               <Nav.Link             
                // as={Link}
                 as= "a"
-                href="https://docs.google.com/document/d/1F_T8DJoFFJi8I1F7O5QnQqZWWCJdj3SdD7eW_jBOEvQ/"
+                href="https://docs.google.com/document/d/1zyCSIIUK4W_5dDSk_axFVzD51DZ_VwTr/"
                 target="_blank"
                 rel="noopener noreferrer"
                 // to="/resume"
