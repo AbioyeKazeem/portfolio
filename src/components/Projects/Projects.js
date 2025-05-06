@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import elemoni from "../../Assets/Projects/Elemoni.png";
-import keymgt from "../../Assets/Projects/keymgt.png";
+//import keymgt from "../../Assets/Projects/keymgt.png";
+import Osiele from "../../Assets/Projects/fcehostelosiele.jpg";
 import cradleHive from "../../Assets/Projects/CradleHive.png";
 import Realtypoint from "../../Assets/Projects/Realtypoint.jpg";
 import techlink from "../../Assets/Projects/techlink.jpg";
@@ -27,7 +28,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={keymgt}
+              imgPath={Osiele}
               isBlog={false}
               title="FCE Osiele Hostel Portal"
               description="FCE Hostel Portal is a platform that enables students to apply for hostel accommodation, check room availability, make payments, and receive allocation updates, while also helping administrators manage room assignments, monitor payments, handle maintenance requests, and maintain student records efficiently."
