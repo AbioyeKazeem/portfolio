@@ -76,7 +76,7 @@ function Projects() {
               title="Elemoni"
               description="Elemoni is a loan app designed to provide quick and easy access to personal loans, built with secure and user-friendly technology. Features include fast loan approval, flexible repayment options, secure transactions, and real-time updates to ensure a smooth borrowing experience."
               ghLink="#"
-              demoLink="https://jolly-concha-457b71.netlify.app/"              
+              demoLink="https://elemoni.netlify.app/"              
             />
           </Col>
 
