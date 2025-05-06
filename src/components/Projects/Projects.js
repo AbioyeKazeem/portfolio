@@ -29,10 +29,10 @@ function Projects() {
             <ProjectCard
               imgPath={keymgt}
               isBlog={false}
-              title="Key Mgt System"
-              description="Key Management System for tracking and safeguarding physical keys, built with modern technologies. Features include controlled key issuance, user access management, audit logging, and key rotation policies to enhance security and accountability."
+              title="FCE Osiele Hostel Portal"
+              description="FCE Hostel Portal is a platform that enables students to apply for hostel accommodation, check room availability, make payments, and receive allocation updates, while also helping administrators manage room assignments, monitor payments, handle maintenance requests, and maintain student records efficiently."
               ghLink="#"
-              demoLink="http://13.42.24.200/"/>
+              demoLink="http://ncehostel.fceportal.com:8010/login"/>
           </Col>
 
           <Col md={4} className="project-card">
@@ -76,7 +76,7 @@ function Projects() {
               title="Elemoni"
               description="Elemoni is a loan app designed to provide quick and easy access to personal loans, built with secure and user-friendly technology. Features include fast loan approval, flexible repayment options, secure transactions, and real-time updates to ensure a smooth borrowing experience."
               ghLink="#"
-              demoLink="https://jolly-concha-457b71.netlify.app/"              
+              demoLink="https://elemoni.netlify.app/"              
             />
           </Col>
 
