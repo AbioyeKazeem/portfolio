@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import elemoni from "../../Assets/Projects/Elemoni.png";
 //import keymgt from "../../Assets/Projects/keymgt.png";
-import Osiele from "../../Assets/Projects/fcehostelosiele.jpg";
+import Osiele from "../../Assets/Projects/fcehostelosiele.JPG";
 import cradleHive from "../../Assets/Projects/CradleHive.png";
 import Realtypoint from "../../Assets/Projects/Realtypoint.jpg";
 import techlink from "../../Assets/Projects/techlink.jpg";
