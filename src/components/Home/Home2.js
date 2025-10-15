@@ -19,7 +19,7 @@ function Home2() {
               Lil <span className="purple"> Info </span> About Me
             </h1>
             <p className="home-about-body">
-            I am a Web Developer and Application Support Expert with a proven track record of collaborating with engineers...🤷‍♂️
+            I am a software engineer with a proven track record of providing cutting edge solutions...🤷‍♂️
               <br />
               <br />I am proficient with the following tools{''} 
               <i>
@@ -29,7 +29,7 @@ function Home2() {
               <br />
               My field of Interest's are  &nbsp;
               <i>
-                <b className="purple">Web Devt. and Software Devt.</b> and
+                <b className="purple">Software Devt. and Research.</b> and
                 also in areas related to{" "}
                 <b className="purple">
                   AI in Education.
