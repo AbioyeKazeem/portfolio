@@ -9,7 +9,7 @@ function Type() {
           "Software Engineer",
           "Researcher",
           "AI in Education Expert",
-          "Software Analyst",
+          "Tech Instructor",
           "Techpreneur"
         ],
         autoStart: true,
