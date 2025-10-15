@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             I am <span className="purple">Kazeem Abioye</span> from <span className="purple"> Lagos, Nigeria.</span>
             <br />
-            I am currently a software developer at Cradle Solution Devt. Ltd.
+            I am currently a team lead and research software engineer at Cradle Solution Devt. Ltd.
             <br />
             I have B.Sc in Computer Science from University of Ibadan
             <br />
